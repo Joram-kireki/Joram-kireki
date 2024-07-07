@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am [Joram Kireki](https://www.github.com/Joram-kireki/) - a full stack developer with interest in cybersecurity ;
+<br>
+
+---
+# &nbsp; About:
+## Full-stack and System Programming 
+🔭 I’m currently working on :</br>
+**Web Development**, **Agent-Based Modelling**, **SysTem Programming**
+
+&nbsp;
+## My Tech Stack:
+I us the following languages, frameworks, databases & ORM's, etc
+<p align="left">
+    <a>
+</p>
+
+
