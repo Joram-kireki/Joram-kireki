@@ -6,7 +6,7 @@ I am [Joram Kireki](https://www.github.com/Joram-kireki/) - a full stack develop
 # &nbsp; About:
 ## Full-stack and System Programming 
 🔭 I’m currently working on:</br>
-**Web Development**, **Agent-Based Modelling**, **System Programming**
+**Web Development**, **Cyber security**, **Agent-Based Modelling**, **System Programming**
 
 &nbsp;
 ## My Tech Stack:
